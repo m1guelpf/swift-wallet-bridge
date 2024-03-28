@@ -1,2 +1,6 @@
+.github
+LICENSE
 .build/
+README.md
 .swiftpm/
+Dockerfile
